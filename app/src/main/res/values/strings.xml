@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">work 3.4.2</string>
+    <string-array name="language">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+    <string name="main_text">АВТОКВЕСТ (Городское ориентирование) — своеобразный вид спорта, включающий элементы интеллектуальной игры и получивший широкое распространение в начале XXI века. </string>
+    <string name="button_ok">Ок</string>
+    <string name="choice_ru">Вы уже выбрали русский</string>
+    <string name="choice_en">Вы уже выбрали английский</string>
+
+    <string-array name="margin">
+        <item>По умолчанию</item>
+        <item>Крупная</item>
+        <item>Средняя</item>
+        <item>Мелкая</item>
+    </string-array>
+
+</resources>
